@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16E195" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="UserEntity" representedClassName="UserEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="dbBs" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dbCatchPhrase" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dbCity" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dbCompanyName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dbEmail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dbId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dbLat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dbLng" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dbName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dbPhone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dbStreet" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dbSuite" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dbUsername" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dbWebSite" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dbZipCode" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="UserEntity" positionX="-63" positionY="-18" width="128" height="270"/>
+    </elements>
+</model>
